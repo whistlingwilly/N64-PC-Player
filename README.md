@@ -43,7 +43,7 @@ Insert a cartridge into your DreamDump64, plug it into USB, and N64 Operator han
 | **N64 Dumper** | [N64 Dumper](https://ebay.us/m/YjdNc2) |
 | **USB controller** | Any USB gamepad — N64 adapter, Xbox, PlayStation, or generic |
 
-The DreamDump64 mounts as a standard USB mass storage device. No drivers required.
+The Dumper mounts as a standard USB mass storage device. No drivers required.
 
 ---
 
