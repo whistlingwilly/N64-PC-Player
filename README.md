@@ -18,7 +18,7 @@
 
 Insert a cartridge into your DreamDump64, plug it into USB, and N64 Operator handles the rest. It detects the device, waits for the dump to complete, identifies the game, and gets you playing in a few clicks.
 
-![Screenshot placeholder](docs/screenshot.png)
+
 
 ---
 
